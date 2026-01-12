@@ -1,2 +1,2 @@
 # WXPCB-
-PCB和原理图
+WX工作的PCB和原理图
